@@ -146,7 +146,6 @@ export default class Store{
             to: 4,
             somme: 3000
         }];
-
     }
 
     getInfo = async (nom, password)=>{
